@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sultan_kosmitow
+- 👋 Hi, I’m @dykuman
 - 👀 I’m interested in WebApp, Arduino, IoT
 - 🌱 I’m currently learning Python
 
